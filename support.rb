@@ -6,4 +6,7 @@ module Week
     def Week.weeks_in_year
         puts 'You have 52 weeks in a year'
     end
+    def Week.showoff
+        puts 'No no no'
+    end
 end
